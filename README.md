@@ -1,2 +1,2 @@
-# react
+# React
 react projects for practicing
